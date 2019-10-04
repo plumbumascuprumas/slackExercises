@@ -1,6 +1,6 @@
 
 
-word = "apelsinas"
+word  = "apelsinas"
 word1 = "apelsinas"
 word2 = "apelsinas"
 
