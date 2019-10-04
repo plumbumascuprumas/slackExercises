@@ -1,0 +1,13 @@
++1.Consoles lange praso varotojo ivesti savo varda.Po ivedimo consolej paraso "Tavo vardas 'ivestas vardas'"
++2.Vartotojas iveda du skaicius.Ekrane isveda tu skaiciu dudeties,atimties,dalybos ir daugybos rezultatus.
+3.Sukurkukite desimties skaiciu masyva.Programa turi i ekrana isvest tik tuos skaicius kurie yra lyginiai.
+4.Sukurkite tuscia masyva ir i ji idekite bet koki skaiciu,rezultata isvesktie i ekrana.
+5.Sukurti funkcija kuri priema lygini skaiciu ,o grazina nelygini.
+6.Parasykite anonimine funkcija,ji priema du parametrus ir grazina ju suma.
+7.Is zodzio "apelsinas",atkirpkite ir issaugokite: trys pirmas raides,tris paskutines raides,ir vidurines priebalses "ls"
+8.Skaiciu konvertuokite/paverskite i tekstine reiksme
+9.Sakiny "Jonas megsta apelsinus" ,visas 'a' raides turite paversti i didziasias,ekrane turime pamatyti rezultata toki : "JonAs megstA Apelsinus"
+10.I sakini irasykite du zodzius naudodami "format operator"
+11.Parasyti cikla(while) kuris i ekrana isvestutik lyginius skaicius,isvedus daugiau nei 10 skaiciu i ekrana stabdomas ciklas
+12.Vartotojo prasoma ivesti jo varda,i ekrana atspausdiname "short"- jei vardas trumpesnis nei 5 raides,"medium"-jei vardas trumpesnis nei 8raides bet ilgesnis nei 5raides,"long"-jei vardas ilgesnis nei 10 raidziu
+13.Parasykite funcija kuri priema skaiciu ir ji atspausdina i ekrana,si funkcija importuojama is kito python failo
